@@ -28,12 +28,12 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<!-- <namespace>${env.ENDOR_NAMESPACE}</namespace> -->
 	</properties>
-	<!-- <repositories>
+	<repositories>
 		<repository>
 			<id>endor</id>
-			<url>https://factory.staging.endorlabs.com/v1/namespaces/sanity/maven2</url>
+			<url>https://factory.staging.endorlabs.com/v1/test_kamakshya.exporter_test/sanity/maven2</url>
 		</repository>
-	</repositories> -->
+	</repositories>
 	<dependencies>
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
